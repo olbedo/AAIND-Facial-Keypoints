@@ -1,0 +1,7 @@
+__pycache__/
+backup/
+data/
+saved_models/
+.idea/
+.ipynb_checkpoints
+*.html
